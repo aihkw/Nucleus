@@ -1,8 +1,10 @@
 # About
 Nucleus is a universal script that works on games listed below:
+
 - Blox Hunt
 - Hide and Seek Extreme
 - King of The Hill
+- Prison Life
 
 ## Usage
 ```lua
